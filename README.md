@@ -2,16 +2,18 @@
 
 This project implements a distributed machine learning and data analytics pipeline to analyze historical Formula 1 data and predict race outcomes. It leverages Apache Spark (PySpark) to handle large-scale data processing and model training, and includes an interactive Streamlit dashboard for real-time race simulation.
 
-Slides - Because I made them 
-!(P1)[images/1.jpg]
-!(P2)[images/2.jpg]
-!(P3)[images/3.jpg]
-!(P4)[images/4.jpg]
-!(P5)[images/5.jpg]
-!(P6)[images/6.jpg]
-!(P7)[images/7.jpg]
-!(P8)[images/8.jpg]
+## Slides
 
+Because I made them!
+
+![Slide 1](images/1.jpg)
+![Slide 2](images/2.jpg)
+![Slide 3](images/3.jpg)
+![Slide 4](images/4.jpg)
+![Slide 5](images/5.jpg)
+![Slide 6](images/6.jpg)
+![Slide 7](images/7.jpg)
+![Slide 8](images/8.jpg)
 
 ## 🚀 Features
 * **Distributed Analytics:** Uses PySpark RDDs and Spark SQL to process decades of F1 data (drivers, constructors, pit stops).
